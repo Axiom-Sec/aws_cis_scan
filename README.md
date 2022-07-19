@@ -187,3 +187,5 @@ Make sure the User / Role ARN has the “arn:aws:iam::aws:policy/ReadOnlyAccess�
 Select the role, copy the “ARN” from the summary section and paste the ARN in the field provided.
 
 
+#### **References**
+This Repository is cloned from [aws-security-benchmark](https://github.com/amazon-archives/aws-security-benchmark/blob/master/LICENSE) and modified.
